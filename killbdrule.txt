@@ -1,2 +1,4 @@
+[Adblock Plus 2.0]
+! Version: 202104191154
 ! Title: 防百度自动跳转商店
 ||mbdp02.bdstatic.com^
