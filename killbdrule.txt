@@ -1,2 +1,2 @@
-! Title: CJX's EasyList Lite
+! Title: 防百度自动跳转商店
 ||mbdp02.bdstatic.com^
